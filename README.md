@@ -1,1 +1,1 @@
-I have posted my html,css code for landing page
+I have posted my html,css code for landing web page
